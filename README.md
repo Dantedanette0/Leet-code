@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Dantedanette0/Leet-code/tree/master/0134-gas-station) |
 | [0238-product-of-array-except-self](https://github.com/Dantedanette0/Leet-code/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dantedanette0/Leet-code/tree/master/0380-insert-delete-getrandom-o1) |
 ## Hash Table
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dantedanette0/Leet-code/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Dantedanette0/Leet-code/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
