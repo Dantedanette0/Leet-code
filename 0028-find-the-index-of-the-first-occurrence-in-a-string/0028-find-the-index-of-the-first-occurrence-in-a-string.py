@@ -1,8 +1,6 @@
 class Solution:
     def strStr(self, haystack: str, needle: str) -> int:
 
-        left = 0
-        right = len(needle) - 1
         occur = 0
 
         if not needle:
