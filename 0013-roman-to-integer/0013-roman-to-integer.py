@@ -1,22 +1,13 @@
 class Solution:
     def romanToInt(self, s: str) -> int:
-        
-        roman_values = {
+        roman_to_int = {
             'I': 1, 'V': 5, 'X': 10, 'L': 50,
             'C': 100, 'D': 500, 'M': 1000
         }
-
         result = 0
-        prev_value = 0
-
-        for char in reversed(s):  
-            current_value = roman_values[char]
-            
-            if current_value >= prev_value:
-                result += current_value 
+        for i in range(len(s)):
+            if i + 1 < len(s) and roman_to_int[s[i]] < roman_to_int[s[i + 1]]:
+                result -= roman_to_int[s[i]]
             else:
-                result -= current_value  
-
-            prev_value = current_value  
-
+                result += roman_to_int[s[i]]
         return result
