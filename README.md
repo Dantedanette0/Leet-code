@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Dantedanette0/Leet-code/tree/master/0013-roman-to-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dantedanette0/Leet-code/tree/master/0380-insert-delete-getrandom-o1) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Dantedanette0/Leet-code/tree/master/0013-roman-to-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dantedanette0/Leet-code/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
 |  |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/Dantedanette0/Leet-code/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Dantedanette0/Leet-code/tree/master/0135-candy) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Dantedanette0/Leet-code/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
