@@ -14,7 +14,7 @@ class Solution:
             if nums[i] in nums_map and complement in nums_map and  nums_map[complement] != i:
                 return [i, nums_map[complement]]
 
-        print(numMap)
+    
 
         
         
