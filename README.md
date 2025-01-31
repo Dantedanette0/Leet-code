@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dantedanette0/Leet-code/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Dantedanette0/Leet-code/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/Dantedanette0/Leet-code/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Dantedanette0/Leet-code/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dantedanette0/Leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dantedanette0/Leet-code/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dantedanette0/Leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Dantedanette0/Leet-code/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Dantedanette0/Leet-code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dantedanette0/Leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dantedanette0/Leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -68,9 +70,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dantedanette0/Leet-code/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/Dantedanette0/Leet-code/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dantedanette0/Leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Dantedanette0/Leet-code/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Dantedanette0/Leet-code/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
