@@ -3,11 +3,10 @@ class Solution:
 
         n = len(nums)
         nums_map = {}
-        n = len(nums)
+  
 
         for i in range(n):
             nums_map[nums[i]] = i
-
 
         for i in range(n):
             complement = target - nums[i]
