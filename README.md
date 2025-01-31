@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Dantedanette0/Leet-code/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Dantedanette0/Leet-code/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Dantedanette0/Leet-code/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/Dantedanette0/Leet-code/tree/master/0134-gas-station) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Dantedanette0/Leet-code/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Dantedanette0/Leet-code/tree/master/0013-roman-to-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dantedanette0/Leet-code/tree/master/0380-insert-delete-getrandom-o1) |
 ## Math
