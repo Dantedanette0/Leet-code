@@ -4,28 +4,20 @@ class Solution:
         left = 0
         right = 0
         n = len(nums)
-        window = nums[left:right]
-        max = 0
+        max_c = 0
 
 
         for i in range(n):
-            if i == n - 1 and nums[i] == 1:
-                right = i+1
-                if nums[left] == 0:
-                    left = i
-                if max < len(nums[left:right]):
-                    max = len(nums[left:right])
-
-            if nums[i] == 1:
-                right = i+1
-                if nums[left] == 0:
-                    left = i
-            if nums [i] == 0:
-                if max < len(nums[left:right]):
-                    max = len(nums[left:right])
-                left = i
-                right = i
-                
-        return max
+            if nums[i] == 0:
+                left = right +1
+                right = left
+            
+            diff = right - left 
+            if left == 0:
+                diff += 1
+            right += 1
+            max_c = max(max_c,diff) 
+        
+        return max_c
 
         
