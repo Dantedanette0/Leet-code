@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dantedanette0/Leet-code/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Dantedanette0/Leet-code/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dantedanette0/Leet-code/tree/master/0380-insert-delete-getrandom-o1) |
+| [0485-max-consecutive-ones](https://github.com/Dantedanette0/Leet-code/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Dantedanette0/Leet-code/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Dantedanette0/Leet-code/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Dantedanette0/Leet-code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
