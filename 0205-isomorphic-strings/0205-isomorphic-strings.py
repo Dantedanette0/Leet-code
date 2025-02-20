@@ -1,8 +1,6 @@
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool: 
 
-        hash_s = {}
-        hash_t = {}
         comp_map = {}
         if len(s) != len(t):
             return False
