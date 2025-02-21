@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dantedanette0/Leet-code/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Dantedanette0/Leet-code/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Dantedanette0/Leet-code/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Dantedanette0/Leet-code/tree/master/0049-group-anagrams) |
 | [0134-gas-station](https://github.com/Dantedanette0/Leet-code/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Dantedanette0/Leet-code/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dantedanette0/Leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dantedanette0/Leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Dantedanette0/Leet-code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dantedanette0/Leet-code/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Dantedanette0/Leet-code/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Dantedanette0/Leet-code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Dantedanette0/Leet-code/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Dantedanette0/Leet-code/tree/master/0290-word-pattern) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Dantedanette0/Leet-code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Dantedanette0/Leet-code/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dantedanette0/Leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Dantedanette0/Leet-code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Dantedanette0/Leet-code/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Dantedanette0/Leet-code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dantedanette0/Leet-code/tree/master/0151-reverse-words-in-a-string) |
@@ -139,5 +142,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Dantedanette0/Leet-code/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Dantedanette0/Leet-code/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
