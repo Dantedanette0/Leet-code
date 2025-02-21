@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Dantedanette0/Leet-code/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Dantedanette0/Leet-code/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Dantedanette0/Leet-code/tree/master/1046-max-consecutive-ones-iii) |
+| [1319-unique-number-of-occurrences](https://github.com/Dantedanette0/Leet-code/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Dantedanette0/Leet-code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dantedanette0/Leet-code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Dantedanette0/Leet-code/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dantedanette0/Leet-code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Dantedanette0/Leet-code/tree/master/0383-ransom-note) |
+| [1319-unique-number-of-occurrences](https://github.com/Dantedanette0/Leet-code/tree/master/1319-unique-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
