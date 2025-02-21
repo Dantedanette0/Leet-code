@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Dantedanette0/Leet-code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dantedanette0/Leet-code/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Dantedanette0/Leet-code/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Dantedanette0/Leet-code/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Dantedanette0/Leet-code/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dantedanette0/Leet-code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Dantedanette0/Leet-code/tree/master/0383-ransom-note) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Dantedanette0/Leet-code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dantedanette0/Leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Dantedanette0/Leet-code/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Dantedanette0/Leet-code/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Dantedanette0/Leet-code/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dantedanette0/Leet-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Dantedanette0/Leet-code/tree/master/0383-ransom-note) |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Dantedanette0/Leet-code/tree/master/0383-ransom-note) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Dantedanette0/Leet-code/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
