@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Dantedanette0/Leet-code/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/Dantedanette0/Leet-code/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Dantedanette0/Leet-code/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Dantedanette0/Leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Dantedanette0/Leet-code/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Dantedanette0/Leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dantedanette0/Leet-code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Dantedanette0/Leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Dantedanette0/Leet-code/tree/master/1894-merge-strings-alternately) |
 ## Trie
 |  |
@@ -146,9 +148,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Dantedanette0/Leet-code/tree/master/0383-ransom-note) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Dantedanette0/Leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Dantedanette0/Leet-code/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Dantedanette0/Leet-code/tree/master/0242-valid-anagram) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Dantedanette0/Leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
