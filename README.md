@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dantedanette0/Leet-code/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Dantedanette0/Leet-code/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dantedanette0/Leet-code/tree/master/0380-insert-delete-getrandom-o1) |
+| [0435-non-overlapping-intervals](https://github.com/Dantedanette0/Leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Dantedanette0/Leet-code/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Dantedanette0/Leet-code/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Dantedanette0/Leet-code/tree/master/0643-maximum-average-subarray-i) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Dantedanette0/Leet-code/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Dantedanette0/Leet-code/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Dantedanette0/Leet-code/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Dantedanette0/Leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Dantedanette0/Leet-code/tree/master/0605-can-place-flowers) |
 ## String
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dantedanette0/Leet-code/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/Dantedanette0/Leet-code/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Dantedanette0/Leet-code/tree/master/0435-non-overlapping-intervals) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dantedanette0/Leet-code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
 |  |
@@ -161,5 +164,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dantedanette0/Leet-code/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Dantedanette0/Leet-code/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Dantedanette0/Leet-code/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/Dantedanette0/Leet-code/tree/master/0435-non-overlapping-intervals) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Dantedanette0/Leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
