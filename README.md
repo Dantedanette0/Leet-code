@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dantedanette0/Leet-code/tree/master/0042-trapping-rain-water) |
+| [0338-counting-bits](https://github.com/Dantedanette0/Leet-code/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Dantedanette0/Leet-code/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Dantedanette0/Leet-code/tree/master/0435-non-overlapping-intervals) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dantedanette0/Leet-code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -182,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Dantedanette0/Leet-code/tree/master/0412-fizz-buzz) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Dantedanette0/Leet-code/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
