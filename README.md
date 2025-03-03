@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Dantedanette0/Leet-code/tree/master/0057-insert-interval) |
 | [0134-gas-station](https://github.com/Dantedanette0/Leet-code/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Dantedanette0/Leet-code/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Dantedanette0/Leet-code/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dantedanette0/Leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dantedanette0/Leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Dantedanette0/Leet-code/tree/master/0219-contains-duplicate-ii) |
@@ -186,5 +187,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Dantedanette0/Leet-code/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Dantedanette0/Leet-code/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
