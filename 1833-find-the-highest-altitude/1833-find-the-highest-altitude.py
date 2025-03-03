@@ -5,7 +5,6 @@ class Solution:
         max_alt = 0
         for alt in gain:
             cur_alt += alt
-            if cur_alt > max_alt:
-                max_alt = cur_alt
+            max_alt = max(cur_alt,max_alt)
         return max_alt
         
