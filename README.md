@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Dantedanette0/Leet-code/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/Dantedanette0/Leet-code/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Dantedanette0/Leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/Dantedanette0/Leet-code/tree/master/1236-n-th-tribonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Dantedanette0/Leet-code/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Dantedanette0/Leet-code/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/Dantedanette0/Leet-code/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Dantedanette0/Leet-code/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dantedanette0/Leet-code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
 |  |
@@ -203,4 +205,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Dantedanette0/Leet-code/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Dantedanette0/Leet-code/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
