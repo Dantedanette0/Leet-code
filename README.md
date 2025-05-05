@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dantedanette0/Leet-code/tree/master/0380-insert-delete-getrandom-o1) |
+| [0969-number-of-recent-calls](https://github.com/Dantedanette0/Leet-code/tree/master/0969-number-of-recent-calls) |
 ## Randomized
 |  |
 | ------- |
@@ -225,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/Dantedanette0/Leet-code/tree/master/2428-equal-row-and-column-pairs) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Dantedanette0/Leet-code/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Dantedanette0/Leet-code/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
