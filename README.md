@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Dantedanette0/Leet-code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Dantedanette0/Leet-code/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Dantedanette0/Leet-code/tree/master/0074-search-a-2d-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/Dantedanette0/Leet-code/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Dantedanette0/Leet-code/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Dantedanette0/Leet-code/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Dantedanette0/Leet-code/tree/master/0136-single-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Dantedanette0/Leet-code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dantedanette0/Leet-code/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Dantedanette0/Leet-code/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Dantedanette0/Leet-code/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Dantedanette0/Leet-code/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Dantedanette0/Leet-code/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Dantedanette0/Leet-code/tree/master/0219-contains-duplicate-ii) |
@@ -291,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Dantedanette0/Leet-code/tree/master/0374-guess-number-higher-or-lower) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Dantedanette0/Leet-code/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
