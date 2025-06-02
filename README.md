@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dantedanette0/Leet-code/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Dantedanette0/Leet-code/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Dantedanette0/Leet-code/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Dantedanette0/Leet-code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Dantedanette0/Leet-code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Dantedanette0/Leet-code/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Dantedanette0/Leet-code/tree/master/0074-search-a-2d-matrix) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dantedanette0/Leet-code/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Dantedanette0/Leet-code/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Dantedanette0/Leet-code/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Dantedanette0/Leet-code/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Dantedanette0/Leet-code/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Dantedanette0/Leet-code/tree/master/0334-increasing-triplet-subsequence) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dantedanette0/Leet-code/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Dantedanette0/Leet-code/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Dantedanette0/Leet-code/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Dantedanette0/Leet-code/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Dantedanette0/Leet-code/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Dantedanette0/Leet-code/tree/master/0338-counting-bits) |
